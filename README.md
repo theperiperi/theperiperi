@@ -16,11 +16,11 @@
 
 📱 Shoot a dm for collabs</p>
 
-📫 email: priyasridhar101@
+📫 email: priyasridhar101@gmail.com
  <div/> 
 <br/> <br/> 
 
-# My Skill Set  
+# My Tech Stack
 <div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>   
@@ -39,3 +39,8 @@
 </div>  
 
 <br/>  
+
+<h3 align="center">Visitor Counter </h3>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/theperiperi/count.svg" />
+</p>
