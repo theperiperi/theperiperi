@@ -1,15 +1,21 @@
 # Hi there wanderer! Welcome to My Github 👋
 
-<div align="center">
-  <img src="cat-computer.gif" alt="Kitty programming" width="300" height="225" />
-</div>
 
-🏫 I’m currently a 2nd year Artificial Intelligence and Data Science student at Shiv Nadar University
+<div/> 
+<br/> <br/> 
+<img align="right" src="cat-computer.gif" width="320" height="210"/>
+  
 
-👩‍💻 I'm Competitive Programming and Python Enthusiast
+<div align="left">  
 
-🌱 I’m currently learning Web Development and Machine Learning
+I’m currently a 2nd year Artificial Intelligence and Data Science student at Shiv Nadar University
 
-📱 Shoot a dm for collabs
+👩‍💻 I'm Competitive Programming and Python Enthusiast</p>
 
-📫 email: priyasridhar101@gmail.com
+🌱 I’m currently learning Web Development and Machine Learning</p>
+
+📱 Shoot a dm for collabs</p>
+
+📫 email: priyasridhar101@
+ <div/> 
+<br/> <br/> 
