@@ -1,7 +1,11 @@
 # Hi there wanderer! Welcome to My Github 👋
 
+<p align="center">
+  <img src="cat-computer.gif" alt="Programming Kitty" width="400" height="300" />
+</p>
 
-![Kitty programming](cat-computer.gif)
+### bla bla
+###testing
 
 🏫 I’m currently a 2nd year Artificial Intelligence and Data Science student at Shiv Nadar University
 
