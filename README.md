@@ -8,7 +8,7 @@
 
 <div align="left">  
 
-I’m currently a 2nd year Artificial Intelligence and Data Science student at Shiv Nadar University
+🏫 I’m currently a 2nd year Artificial Intelligence and Data Science student at Shiv Nadar University
 
 👩‍💻 I'm Competitive Programming and Python Enthusiast</p>
 
