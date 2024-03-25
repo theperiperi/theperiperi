@@ -1,6 +1,6 @@
 # Hi there wanderer! Welcome to My Github 👋
 
-<p align="center">
+<p align="left">
   <img src="cat-computer.gif" alt="Programming Kitty" width="400" height="300" />
 </p>
 
