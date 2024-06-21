@@ -8,15 +8,8 @@
 
 <div align="left">  
 
-🏫 I’m currently a 2nd year BTech AI&DS student at Shiv Nadar University
+Hi there! I'm Priya Sridhar, currently a 3rd-year BTech AI&DS student at Shiv Nadar University. As a Competitive Programming and Python enthusiast, I thrive on solving challenging problems and exploring the world of algorithms. Alongside my studies, I'm delving into Web Development and Machine Learning, eager to create impactful projects that blend innovation with technology. If you're interested in collaborating or just want to chat about tech, feel free to shoot me a DM. You can reach me via email at priyasridhar101@gmail.com. Let's connect and explore the possibilities together!
 
-👩‍💻 I'm Competitive Programming and Python Enthusiast</p>
-
-🌱 I’m currently learning Web Development and Machine Learning</p>
-
-📱 Shoot a dm for collabs</p>
-
-📫 email: priyasridhar101@gmail.com
  <div/> 
 <br/> <br/> 
 
