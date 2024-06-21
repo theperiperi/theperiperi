@@ -20,6 +20,28 @@
  <div/> 
 <br/> <br/> 
 
+## Tech Stack
+
+### Frontend
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Libraries & Frameworks**: React, Next.js, Tailwind CSS, Bootstrap
+- **Tools & Platforms**: Webpack, Babel, npm, Yarn, Sass
+
+### Backend
+- **Languages**: Node.js, Python, Java, C
+- **Frameworks**: Django, Flask
+- **Databases**: PostgreSQL, MySQL, SQLite, Supabase
+
+### Machine Learning & AI
+- **Frameworks & Libraries**: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, LlamaIndex, Ollama, Gemini
+- **Tools & Platforms**: Jupyter Notebook, Google Colab, Tableau
+
+### Miscellaneous
+- **Tools and Platformsm**: Git, GitHub, VS Code, WordPress, LaTeX
+
+### Competitive Programming
+- **Platforms**: LeetCode, CodeChef, Codeforces
+
 <h3 align="center">Visitor Counter </h3>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/theperiperi/count.svg" />
