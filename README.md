@@ -13,7 +13,7 @@ Hi there! I'm Priya Sridhar, a 3rd-year BTech AI&DS student at Shiv Nadar Univer
 #### Frontend
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Libraries & Frameworks**: React, Next.js, Tailwind CSS, Bootstrap
-- **Tools & Platforms**: Webpack, Babel, npm, Yarn, Sass
+- **Tools & Platforms**: Webpack, Babel, npm, Yarn, Sass, Retool
 
 #### Backend
 - **Languages**: Node.js, Python, Java, C
@@ -25,7 +25,7 @@ Hi there! I'm Priya Sridhar, a 3rd-year BTech AI&DS student at Shiv Nadar Univer
 - **Tools & Platforms**: Jupyter Notebook, Google Colab, Tableau
 
 #### Miscellaneous
-- **Tools and Platforms**: Git, GitHub, VS Code, WordPress, LaTeX
+- **Tools and Platforms**: Git, GitHub, VS Code, WordPress, LaTeX, Replit
 
 #### Competitive Programming
 - **Platforms**: LeetCode, CodeChef, Codeforces
