@@ -2,7 +2,7 @@
 
 <div align="left">
   
-Hi there! I'm Priya Sridhar, a 3rd-year BTech AI&DS student at Shiv Nadar University. Passionate about Competitive Programming and Python, I love tackling challenging problems and exploring algorithms. Beyond academics, I'm diving into Web Development and Machine Learning, aiming to create innovative projects that merge technology with impact. Let's connect and explore the possibilities together!
+Hi there! I'm Priya Sridhar, a 3rd-year BTech Artificial Intelligence and Data Science student at Shiv Nadar University. Passionate about Competitive Programming and Python, I love tackling challenging problems and exploring algorithms. Beyond academics, I'm diving into Web Development and Machine Learning, aiming to create innovative projects that merge technology with impact. Let's connect and explore the possibilities together!
 
 </div>
 
