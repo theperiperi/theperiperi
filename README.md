@@ -16,8 +16,8 @@ Hi there! I'm Priya Sridhar, a 3rd-year BTech Artificial Intelligence and Data S
 - **Tools & Platforms**: Webpack, Babel, npm, Yarn, Sass, Retool
 
 #### Backend
-- **Languages**: Node.js, Python, Java, C
-- **Frameworks**: Django, Flask
+- **Languages**: Javascript, Python, Java, C
+- **Frameworks**: Django, Flask, Node.js
 - **Databases**: PostgreSQL, MySQL, SQLite, Supabase
 
 #### Machine Learning & AI
