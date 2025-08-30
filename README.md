@@ -2,7 +2,7 @@
 
 <div align="left">
   
-Hi there! I'm Priya Sridhar, a 3rd-year BTech Artificial Intelligence and Data Science student at Shiv Nadar University. Passionate about Competitive Programming and Python, I love tackling challenging problems and exploring algorithms. Beyond academics, I'm diving into Web Development and Machine Learning, aiming to create innovative projects that merge technology with impact. Let's connect and explore the possibilities together!
+I'm Priya Sridhar, a 4th-year B.Tech Artificial Intelligence and Data Science student at Shiv Nadar University, and a former SWE Intern at Google.  I specialize in **full-stack development, AI/ML, and competitive programming**, with a passion for building scalable systems and impactful solutions.  Beyond academics, I do CP for fun and explore innovative projects in **Web Development and Machine Learning** while mentoring and contributing to developer communities.
 
 </div>
 
@@ -16,12 +16,11 @@ Hi there! I'm Priya Sridhar, a 3rd-year BTech Artificial Intelligence and Data S
 - **Tools & Platforms**: Webpack, Babel, npm, Yarn, Sass, Retool
 
 #### Backend
-- **Languages**: Javascript, Python, Java, C
-- **Frameworks**: Django, Flask, Node.js
-- **Databases**: PostgreSQL, MySQL, SQLite, Supabase
+- **Languages**: TypeScript, JavaScript, Python, Java, C
+- **Frameworks**: Node.js, FastAPI, Django, Flask
 
 #### Machine Learning & AI
-- **Frameworks & Libraries**: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy
+- **Frameworks & Libraries**: LangChain, LlamaIndex, TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy
 - **Tools & Platforms**: Jupyter Notebook, Google Colab, Tableau
 
 #### Miscellaneous
@@ -30,8 +29,15 @@ Hi there! I'm Priya Sridhar, a 3rd-year BTech Artificial Intelligence and Data S
 #### Competitive Programming
 - **Platforms**: LeetCode, CodeChef, Codeforces
 
+### Highlights
+- **Former SWE Intern at Google**  
+- **Top 5% LeetCode Worldwide – Knight Badge (1850+ Rating)**  
+- **3★ CodeChef – Global Rank ≈ 15,000**  
+
 ### Connect with Me
-- Feel free to email priyasridhar101@gmail.com for any queries
+- **Email**: priyasridhar101@gmail.com  
+- **GitHub**: [@theperiperi](https://github.com/theperiperi)  
+- **LinkedIn**: [Priyadharshini Sridhar](https://www.linkedin.com/in/priyadharshini-sridhar/)  
 
 ### Visitor Counter
 <p align="center"> 
