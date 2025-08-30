@@ -21,10 +21,7 @@ I'm Priya Sridhar, a 4th-year B.Tech Artificial Intelligence and Data Science st
 
 #### Machine Learning & AI
 - **Frameworks & Libraries**: LangChain, LlamaIndex, TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy
-- **Tools & Platforms**: Jupyter Notebook, Google Colab, Tableau
-
-#### Miscellaneous
-- **Tools and Platforms**: Git, GitHub, VS Code, WordPress, LaTeX, Replit
+- **Tools & Platforms**: Jupyter Notebook, Google Colab, Tableau, Kaggle
 
 #### Competitive Programming
 - **Platforms**: LeetCode, CodeChef, Codeforces
