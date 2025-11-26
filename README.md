@@ -30,12 +30,5 @@ Explore my projects, blogs, experience, and everything I’m building.
 
 ---
 
-## Visitor Counter
-<p align="left">
-  <img src="https://profile-counter.glitch.me/theperiperi/count.svg" />
-</p>
-
----
-
 Thanks for visiting my profile!  
 If something here interests you, feel free to reach out — I love meeting builders and discussing ideas.
