@@ -1,4 +1,4 @@
-# Hi there, I'm Priya Sridhar 👋
+# Hi there, I'm Priya :)
 
 
 <img align="right" src="cat-computer.gif" width="320" height="210"/>
