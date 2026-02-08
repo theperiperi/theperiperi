@@ -1,20 +1,14 @@
 # Hi there, I'm Priya :)
 
-
 <img align="right" src="cat-computer.gif" width="320" height="210"/>
 
-
 I'm **Priya Sridhar**
-I specialize in **full-stack development and competitive programming**, and I have a passion for building creative solutions to everyday problems that make an impact.  
-
-
-## Portfolio  
-🔗 **Website:** https://priyadharshini-sridhar.vercel.app  
-Explore my projects, blogs, experience, and everything I’m building.
+I dabble in dev and do some competitive programming in my spare time, my passion lies in building creative solutions to everyday problems that make an impact.  
 
 
 ## Connect with Me  
-- **Email:** priyasridhar101@gmail.com  
+- **Email:** priyasridhar101@gmail.com
+- **Portfolio:** https://priyadharshini-sridhar.vercel.app
 - **GitHub:** https://github.com/theperiperi  
 - **LinkedIn:** https://www.linkedin.com/in/priyadharshini-sridhar/
 
