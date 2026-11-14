@@ -2,7 +2,7 @@
 
 <img align="right" src="cat-computer.gif" width="320" height="210"/>
 
-Welcome to my github, If something here interests you, feel free to reach out — I love meeting builders and discussing ideas.
+Welcome to my github, If something here interests you, feel free to reach out! I love meeting builders and discussing ideas.
 
 
 You can reach out via:
